@@ -54,24 +54,16 @@ $ whoami
 ### † Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ts,js,html,css&theme=dark" alt="Langages" />
 
-<br><br>
-
 ### ✧ Frameworks & Runtimes
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" alt="Frameworks" />
-
-<br><br>
 
 ### † Technology & DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,windows,git,github&theme=dark" alt="Technologies & DevOps" />
 
-<br><br>
 
 ### ✧ Tools
 <img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" alt="Tools" /> <img src="./assets/zed.svg" width="48" height="48" alt="Zed IDE" />
-
 </div>
-
-<br>
 
 <p align="center">
   <img src="./assets/divider.svg" width="80%" alt="divider" />
